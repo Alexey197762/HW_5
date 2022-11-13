@@ -14,13 +14,13 @@ int sum = 0;
 for (int i = 0; i < numbers.Length; i+=2)
     sum = sum + numbers[i];
 
-    Console.WriteLine($"всего {numbers.Length} чисел, сумма не четных позиций = {sum}");
+    Console.WriteLine($"всего {numbers.Length} чисел, сумма на не четных позициях = {sum}");
 
 void RandomNumbers(int[] numbers)
 {
     for(int i = 0; i < numbers.Length; i++)
         {
-            numbers[i] = new Random().Next(1,10);
+            numbers[i] = new Random().Next(-10,10);
         }
 }
 void PrintArray(int[] numbers)
