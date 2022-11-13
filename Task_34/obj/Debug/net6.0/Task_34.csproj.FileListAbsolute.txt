@@ -1,0 +1,15 @@
+D:\HW_Seminar_5\Task_34\bin\Debug\net6.0\Task_34.exe
+D:\HW_Seminar_5\Task_34\bin\Debug\net6.0\Task_34.deps.json
+D:\HW_Seminar_5\Task_34\bin\Debug\net6.0\Task_34.runtimeconfig.json
+D:\HW_Seminar_5\Task_34\bin\Debug\net6.0\Task_34.dll
+D:\HW_Seminar_5\Task_34\bin\Debug\net6.0\Task_34.pdb
+D:\HW_Seminar_5\Task_34\obj\Debug\net6.0\Task_34.csproj.AssemblyReference.cache
+D:\HW_Seminar_5\Task_34\obj\Debug\net6.0\Task_34.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW_Seminar_5\Task_34\obj\Debug\net6.0\Task_34.AssemblyInfoInputs.cache
+D:\HW_Seminar_5\Task_34\obj\Debug\net6.0\Task_34.AssemblyInfo.cs
+D:\HW_Seminar_5\Task_34\obj\Debug\net6.0\Task_34.csproj.CoreCompileInputs.cache
+D:\HW_Seminar_5\Task_34\obj\Debug\net6.0\Task_34.dll
+D:\HW_Seminar_5\Task_34\obj\Debug\net6.0\refint\Task_34.dll
+D:\HW_Seminar_5\Task_34\obj\Debug\net6.0\Task_34.pdb
+D:\HW_Seminar_5\Task_34\obj\Debug\net6.0\Task_34.genruntimeconfig.cache
+D:\HW_Seminar_5\Task_34\obj\Debug\net6.0\ref\Task_34.dll
